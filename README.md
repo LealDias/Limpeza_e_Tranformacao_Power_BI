@@ -29,6 +29,30 @@ Fonte dos Dados: https://www.kaggle.com/datasets/shebrahimi/financial-distress
 
 ## Carregamento da Base com Power Query
 
+1 - Conexão com o Google BigQuery
+
+![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/f69f8e65-4a30-4980-b537-555a29f2d273)
+
+![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/68dc4731-8429-499e-8a62-9384bcdc7d47)
+
+![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/01ef17b0-1265-4e43-88b8-cf646f333b12)
+
+
+2 - Foi feita a importação de dados e não utilizado o DirectQuery.
+
+![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/6aebec35-074b-4d8e-9b72-11658fcb8406)
+
+3 - Conexão e importação dos dados concluída.
+
+![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/47a2816b-936f-431b-9752-4aa21ebc7af7)
+
+
 ## Processo de Limpeza
+
+1 - Foi identificado que durante a importação da base, a coluna "Financial_Distress" está fora da formatação. Na amostra abaixo podemos ver os dados direto da base e a que foi importada.
+
+![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/baa1a7cd-a0b9-46e4-b0c8-09bf17213b0e)
+![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/11d17ae0-00fb-4a85-b89f-5b5ef0b40dd8)
+
 
 ## Resultados
