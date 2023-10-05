@@ -54,5 +54,10 @@ Fonte dos Dados: https://www.kaggle.com/datasets/shebrahimi/financial-distress
 ![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/baa1a7cd-a0b9-46e4-b0c8-09bf17213b0e)
 ![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/11d17ae0-00fb-4a85-b89f-5b5ef0b40dd8)
 
+2 - A primeira etapa será utilizar a função extrair, para extração do texto.
+
+![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/4c554a2f-4a7d-4e5c-a182-18185a50a074)
+
+3 - 
 
 ## Resultados
