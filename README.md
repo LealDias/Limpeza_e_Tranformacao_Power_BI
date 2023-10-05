@@ -5,6 +5,8 @@ Fonte dos Dados: https://www.kaggle.com/datasets/shebrahimi/financial-distress
 
 ## Objetivo
 
+Este projeto tem por objetivo mostrar os conceitos aprendidos de integração de uma base de dados na núvém ao Power BI. Devido a questões de uso de cartão de crédito, não foi possível criar uma base de dados na Azure Cloud, desta forma, a cloud da Google foi utilizada como alternativa.
+
 ![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/64b3394f-5c0f-4787-a444-ae22eaf084c8)
 
 
@@ -58,6 +60,26 @@ Fonte dos Dados: https://www.kaggle.com/datasets/shebrahimi/financial-distress
 
 ![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/4c554a2f-4a7d-4e5c-a182-18185a50a074)
 
-3 - 
+3 - Como existem vários símbolos antes dos dados corretos, deve ser feito esse processo mais algumas vezes. Após o valor correto estar limpo a sua esquerda, vamos remover os valores sujos a diretia.
+
+![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/8dd2efe2-869e-45ef-a8ac-249ee42c35eb)
+
+4 - Após a limpeza final, temos os dados a seguir:
+
+![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/9604b34e-5508-473e-a5af-073b0f9c2462)
+
+5 - Podemos verificar ainda que o atributo "Financial_Distress" aparece como o tipo texto. Para esta etapa basta modificarmos o tipo no icone a esquerda do nome da coluna.
+
+![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/538d23a2-765d-4379-b7b3-495eb7307ede)
+
+6 - Aplicamos as mudanças e então a base está pronta para uso.
+
+![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/a6d89771-7221-4792-82c9-e7cde5aff26a)
+![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/6ca9a7cb-6b47-4ccc-a3f8-9e5c4d45cce1)
+
 
 ## Resultados
+
+O resultado final foi satisfatório em termos de performance e usabilidade. De forma bem simplória, foram feitos alguns gráficos para visualização dos dados. Embora a base esteja mais preparada para algorítimos de Machine Learnig, essa base foi suficiente para mostrar a integração em uma base de dados na nunvém com o Power BI através do Power Query.
+
+![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/e1f7b68b-51d9-45c7-9c0f-ad5c4e86ba00)
