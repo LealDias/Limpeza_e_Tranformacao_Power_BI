@@ -80,6 +80,6 @@ Este projeto tem por objetivo mostrar os conceitos aprendidos de integração de
 
 ## Resultados
 
-O resultado final foi satisfatório em termos de performance e usabilidade. De forma bem simplória, foram feitos alguns gráficos para visualização dos dados. Embora a base esteja mais preparada para algorítimos de Machine Learnig, essa base foi suficiente para mostrar a integração em uma base de dados na nunvém com o Power BI através do Power Query.
+O resultado final foi satisfatório em termos de performance e usabilidade. De forma bem simplória, foram feitos alguns gráficos para visualização dos dados. Embora a base esteja mais preparada para algorítimos de Machine Learnig, essa base foi suficiente para mostrar a integração em uma base de dados na nuvém com o Power BI através do Power Query.
 
 ![image](https://github.com/LealDias/Limpeza_e_Tranformacao_Power_BI/assets/70763447/e1f7b68b-51d9-45c7-9c0f-ad5c4e86ba00)
